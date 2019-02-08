@@ -1,0 +1,17 @@
+#friends{
+    display: none;   
+}
+.text{
+    color:white;
+}
+.food{
+    width:300px;
+    display: none;
+}
+.button2{
+    display: none;    
+}
+h1{
+    text-align: center;
+    color: blue;
+}
